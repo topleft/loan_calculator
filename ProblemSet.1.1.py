@@ -1,3 +1,8 @@
+***
+His loan calculator returns total interest paid and total principal paid
+over the course of 1 year if yoou only payy the minimum payment.
+***
+
 rebal = float(4800)
 min_pay_rate = float(0.02)
 annual_rate = float(0.2)
